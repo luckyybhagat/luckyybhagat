@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Lucky Bhagat</h1>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
+</div>
+</p><h1 align="center">Heya!, I'm Lucky Bhagat</h1
+<p align="center">Enthusiastic designer & developer 👨‍💻, eager to contribute to team success through hard work, attention to detail, and
+excellent organizational skills, a clear understanding of frontend, backend, and project management.</p>
 <h3 align="center">A passionate developer & designer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luckyybhagat&label=Profile%20views&color=0e75b6&style=flat" alt="luckyybhagat" /> </p>
