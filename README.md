@@ -26,7 +26,7 @@ excellent organizational skills, a clear understanding of frontend, backend, and
 <a href="https://dribbble.com/luckyybhagat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="luckyybhagat" height="30" width="40" /></a>
 <a href="https://www.behance.net/luckyybhagat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="luckyybhagat" height="30" width="40" /></a>
 <a href="https://medium.com/@luckyybhagat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@luckyybhagat" height="30" width="40" /></a>
-<a href="https://discord.gg/4603" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4603" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
